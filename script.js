@@ -13,7 +13,7 @@ let movie = [
     ["GRASS", "Hang Sang-Soo", "Corée du sud", "2018", "1h06", "vostfr"]
 ]
 
-
+//
 function cinema() {
     let h1 = document.createElement("h1") //Creating the h1 element
     let p = document.createElement("p") //Creating the paragrah element
@@ -92,3 +92,6 @@ let substance = [
     ["alcool éthylique", "-114", "78"],
     ["aluminium", "660", "2450"]
 ]
+
+
+function 
